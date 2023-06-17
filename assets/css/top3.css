@@ -1,0 +1,10 @@
+.top3-jobs {
+    max-width: 64rem;
+    min-height: 100vh;
+    display: flex;
+    flex-flow: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
